@@ -1,4 +1,12 @@
 body {
-    background-color: red;
+    background-color: black;
     color: blue;
 }
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+/* git diff */
+/* git checkout */
